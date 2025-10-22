@@ -239,7 +239,16 @@ boxplot(Idade ~ Nacionalidade,
         xlab = "Nacionalidade"
         )
 
+boxplot(Renda ~ Nacionalidade,
+        data = tabela,
+        main = "Boxplot comparativo",
+        col = "pink",
+        ylab = 'Renda',
+        xlab = "Nacionalidade"
+        )
+
 #fim da questão 2
+
 
 
 
