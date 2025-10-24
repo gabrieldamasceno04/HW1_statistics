@@ -9,7 +9,7 @@ Trabalho de casa 1 sobre análise estatística com implementações em R e docum
 
 ## Descrição
 
-Este repositório contém a solução para o trabalho de casa 1 (HW1) sobre estatística. O projeto inclui análises estatísticas implementadas em R, com foco em questões práticas e teóricas de estatística.
+Este repositório contém a solução para o Homework1 (HW1) sobre estatística. O projeto inclui análises estatísticas implementadas em R, com foco em questões práticas e teóricas de estatística.
 
 ## Estrutura do Projeto
 
